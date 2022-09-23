@@ -1,0 +1,429 @@
+Vehicle_Name;SUV;Width
+Acura 3.5 RL 4dr;0;72
+Acura 3.5 RL w/Navigation 4dr;0;72
+Acura MDX;1;77
+Acura NSX coupe 2dr manual S;0;71
+Acura RSX Type S 2dr;0;68
+Acura TL 4dr;0;72
+Acura TSX 4dr;0;69
+Audi A4 1.8T 4dr;0;70
+Audi A4 3.0 4dr;0;70
+Audi A4 3.0 convertible 2dr;0;70
+Audi A4 3.0 Quattro 4dr auto;0;70
+Audi A4 3.0 Quattro 4dr manual;0;70
+Audi A4 3.0 Quattro convertible 2dr;0;70
+Audi A41.8T convertible 2dr;0;70
+Audi A6 2.7 Turbo Quattro 4dr;0;71
+Audi A6 3.0 4dr;0;71
+Audi A6 3.0 Avant Quattro;0;71
+Audi A6 3.0 Quattro 4dr;0;71
+Audi A6 4.2 Quattro 4dr;0;71
+Audi A8 L Quattro 4dr;0;75
+Audi RS 6 4dr;0;78
+Audi S4 Avant Quattro;0;70
+Audi S4 Quattro 4dr;0;70
+Audi TT 1.8 convertible 2dr (coupe);0;73
+Audi TT 1.8 Quattro 2dr (convertible);0;73
+Audi TT 3.2 coupe 2dr (convertible);0;73
+BMW 325Ci 2dr;0;69
+BMW 325Ci convertible 2dr;0;69
+BMW 325i 4dr;0;69
+BMW 325xi 4dr;0;69
+BMW 325xi Sport;0;69
+BMW 330Ci 2dr;0;69
+BMW 330Ci convertible 2dr;0;69
+BMW 330i 4dr;0;69
+BMW 330xi 4dr;0;69
+BMW 525i 4dr;0;73
+BMW 530i 4dr;0;73
+BMW 545iA 4dr;0;73
+BMW 745i 4dr;0;75
+BMW 745Li 4dr;0;75
+BMW M3 convertible 2dr;0;70
+BMW M3 coupe 2dr;0;70
+BMW X3 3.0i;1;73
+BMW X5 4.4i;1;74
+BMW Z4 convertible 2.5i 2dr;0;70
+BMW Z4 convertible 3.0i 2dr;0;70
+Buick Century Custom 4dr;0;73
+Buick LeSabre Custom 4dr;0;74
+Buick LeSabre Limited 4dr;0;74
+Buick Park Avenue 4dr;0;75
+Buick Park Avenue Ultra 4dr;0;75
+Buick Rainier;1;75
+Buick Regal GS 4dr;0;73
+Buick Regal LS 4dr;0;73
+Buick Rendezvous CX;1;74
+Cadillac CTS VVT 4dr;0;71
+Cadillac Deville 4dr;0;74
+Cadillac Deville DTS 4dr;0;74
+Cadillac Escalade EXT;0;*
+Cadillac Escaladet;1;79
+Cadillac Seville SLS 4dr;0;75
+Cadillac SRX V8;1;73
+Cadillac XLR convertible 2dr;0;72
+Chevrolet Astro;0;78
+Chevrolet Avalanche 1500;0;*
+Chevrolet Aveo 4dr;0;66
+Chevrolet Aveo LS 4dr hatch;0;66
+Chevrolet Cavalier 2dr;0;69
+Chevrolet Cavalier 4dr;0;68
+Chevrolet Cavalier LS 2dr;0;69
+Chevrolet Colorado Z85;0;*
+Chevrolet Corvette 2dr;0;74
+Chevrolet Corvette convertible 2dr;0;74
+Chevrolet Impala 4dr;0;73
+Chevrolet Impala LS 4dr;0;73
+Chevrolet Impala SS 4dr;0;73
+Chevrolet Malibu 4dr;0;70
+Chevrolet Malibu LS 4dr;0;70
+Chevrolet Malibu LT 4dr;0;70
+Chevrolet Malibu Maxx LS;0;70
+Chevrolet Monte Carlo LS 2dr;0;73
+Chevrolet Monte Carlo SS 2dr;0;73
+Chevrolet Silverado 1500 Regular Cab;0;*
+Chevrolet Silverado SS;0;*
+Chevrolet SSR;0;*
+Chevrolet Suburban 1500 LT;1;79
+Chevrolet Tahoe LT;1;79
+Chevrolet Tracker;1;67
+Chevrolet TrailBlazer LT;1;75
+Chevrolet Venture LS;0;72
+Chrvsler PT Cruiser GT 4dr;0;67
+Chrysler 300M 4dr;0;74
+Chrysler 300M Special Edition 4dr;0;74
+Chrysler Concorde LX 4dr;0;74
+Chrysler Concorde LXi 4dr;0;74
+Chrysler Crossfire 2dr;0;70
+Chrysler Pacifica;0;79
+Chrysler PT Cruiser 4dr;0;67
+Chrysler PT Cruiser Limited 4dr;0;67
+Chrysler Sebring 4dr;0;71
+Chrysler Sebring convertible 2dr;0;64
+Chrysler Sebring Limited convertible 2dr;0;69
+Chrysler Sebring Touring 4dr;0;71
+Chrysler Town and Country Limited;0;79
+Chrysler Town and Country LX;0;79
+CMC Yukon 1500 SLE;1;79
+Dodge Caravan SE;0;79
+Dodge Dakota Club Cab;0;*
+Dodge Dakota Regular Cab;0;*
+Dodge Durango SLT;1;76
+Dodge Grand Caravan SXT;0;79
+Dodge Intrepid ES 4dr;0;75
+Dodge Intrepid SE 4dr;0;75
+Dodge Neon SE 4dr;0;67
+Dodge Neon SXT 4dr;0;67
+Dodge Ram 1500 Regular Cab ST;0;*
+Dodge Stratus SE 4dr;0;71
+Dodge Stratus SXT 4dr;0;71
+Dodge Viper SRT-10 convertible 2dr;0;75
+Ford Crown Victoria 4dr;0;78
+Ford Crown Victoria LX 4dr;0;78
+Ford Crown Victoria LX Sport 4dr;0;78
+Ford Escape XLS;1;70
+Ford Excursion 6.8 XLT;1;80
+Ford Expedition 4.6 XLT;1;79
+Ford Explorer XLT V6;1;72
+Ford F-150 Regular Cab XL;0;*
+Ford F-150 Supercab Lariat;0;*
+Ford Focus LX 4dr;0;67
+Ford Focus SE 4dr;0;67
+Ford Focus SVT 2dr;0;67
+Ford Focus ZTW;0;67
+Ford Focus ZX3 2dr hatch;0;67
+Ford Focus ZX5 5dr;0;67
+Ford Freestar SE;0;77
+Ford Mustang 2dr (convertible);0;73
+Ford Mustang GT Premium convertible 2dr;0;73
+Ford Ranger 2.3 XL Regular Cab;0;*
+Ford Taurus LX 4dr;0;73
+Ford Taurus SE;0;73
+Ford Taurus SES Duratec 4dr;0;73
+Ford Thunderbird Deluxe convert w/hardtop 2dr;0;72
+GMC Canyon Z85 SL Regular Cab;0;*
+GMC Envoy XUV SLE;1;75
+GMC Safari SLE;0;78
+GMC Sierra Extended Cab 1500;0;*
+GMC Sierra HD 2500;0;*
+GMC Sonoma Crew Cab;0;*
+GMC Yukon XL 2500 SLT;1;79
+Honda Accord EX 2dr;0;71
+Honda Accord EX V6 2dr;0;71
+Honda Accord LX 2dr;0;71
+Honda Accord LX V6 4dr;0;72
+Honda Civic DX 2dr;0;67
+Honda Civic EX 4dr;0;68
+Honda Civic HX 2dr;0;67
+Honda Civic Hybrid 4dr manual (gas/electric);0;68
+Honda Civic LX 4dr;0;68
+Honda Civic Si 2dr hatch;0;67
+Honda CR-V LX;1;70
+Honda Element LX;1;72
+Honda Insight 2dr (gas/electric);0;67
+Honda Odyssey EX;0;76
+Honda Odyssey LX;0;76
+Honda Pilot LX;1;77
+Honda S2000 convertible 2dr;0;69
+Hummer H2;1;81
+Hyundai Accent 2dr hatch;0;66
+Hyundai Accent GL 4dr;0;66
+Hyundai Accent GT 2dr hatch;0;66
+Hyundai Elantra GLS 4dr;0;68
+Hyundai Elantra GT 4dr;0;68
+Hyundai Elantra GT 4dr hatch;0;68
+Hyundai Santa Fe GLS;1;73
+Hyundai Sonata GLS 4dr;0;72
+Hyundai Sonata LX 4dr;0;72
+Hyundai Tiburon GT V6 2dr;0;69
+Hyundai XG350 4dr;0;72
+Hyundai XG350 L 4dr;0;72
+Infiniti FX35;0;76
+Infiniti FX45;0;76
+Infiniti G35 4dr;0;69
+Infiniti G35 4dr;0;69
+Infiniti G35 Sport Coupe 2dr;0;72
+Infiniti I35 4dr;0;70
+Infiniti M45 4dr;0;70
+Infiniti Q45 Luxury 4dr;0;73
+Isuzu Ascender S;1;76
+Isuzu Rodeo S;1;70
+Jaguar S-Type 3.0 4dr;0;72
+Jaguar S-Type 4.2 4dr;0;72
+Jaguar S-Type R 4dr;0;72
+Jaguar Vanden Plas 4dr;0;73
+Jaguar XJ8 4dr;0;73
+Jaguar XJR 4dr;0;73
+Jaguar XK8 convertible 2dr;0;71
+Jaguar XK8 coupe 2dr;0;71
+Jaguar XKR convertible 2dr;0;71
+Jaguar XKR coupe 2dr;0;71
+Jaguar X-Type 2.5 4dr;0;70
+Jaguar X-Type 3.0 4dr;0;70
+Jeep Grand Cherokee Laredo;1;72
+Jeep Liberty Sport;1;72
+Jeep Wrangler Sahara convertible 2dr;1;67
+Kia Amanti 4dr;0;73
+Kia Optima LX 4dr;0;72
+Kia Optima LX V6 4dr;0;72
+Kia Rio 4dr auto;0;66
+Kia Rio 4dr manual;0;66
+Kia Rio Cinco;0;66
+Kia Sedona LX;0;75
+Kia Sorento LX;1;73
+Kia Spectra 4dr;0;68
+Kia Spectra GS 4dr hatch;0;68
+Kia Spectra GSX 4dr hatch;0;68
+Land Rover Discovery SE;1;74
+Land Rover Freelander SE;1;71
+Land Rover Range Rover HSE;1;76
+Lexus ES 330 4dr;0;71
+Lexus GS 300 4dr;0;71
+Lexus GS 430 4dr;0;71
+Lexus GX 470;1;74
+Lexus IS 300 4dr auto;0;68
+Lexus IS 300 4dr manual;0;68
+Lexus IS 300 SportCross;0;68
+Lexus LS 430 4dr;0;72
+Lexus LX 470;1;76
+Lexus RX 330;1;73
+Lexus SC 430 convertible 2dr;0;72
+Lincoln Aviator Ultimate;1;76
+Lincoln LS V6 Luxury 4dr;0;73
+Lincoln LS V6 Premium 4dr;0;73
+Lincoln LS V8 Sport 4dr;0;73
+Lincoln LS V8 Ultimate 4dr;0;73
+Lincoln Navigator Luxury;1;80
+Lincoln Town Car Signature 4dr;0;78
+Lincoln Town Car Ultimate 4dr;0;78
+Lincoln Town Car Ultimate L 4dr;0;78
+Mazda B2300 SX Regular Cab;0;*
+Mazda B4000 SE Cab Plus;0;*
+Mazda MPV ES;0;72
+Mazda MX-5 Miata convertible 2dr;0;66
+Mazda MX-5 Miata LS convertible 2dr;0;66
+Mazda RX-8 4dr automatic;0;*
+Mazda RX-8 4dr manual;0;*
+Mazda Tribute DX 2.0;1;72
+Mazda3 i 4dr;0;*
+Mazda3 s 4dr;0;*
+Mazda6 i 4dr;0;70
+Mercedes-Benz C230 Sport 2dr;0;68
+Mercedes-Benz C240;0;68
+Mercedes-Benz C240 4dr;0;68
+Mercedes-Benz C240 4dr;0;68
+Mercedes-Benz C32 AMG 4dr;0;68
+Mercedes-Benz C320 4dr;0;68
+Mercedes-Benz C320 4dr;0;68
+Mercedes-Benz C320 Sport 2dr;0;68
+Mercedes-Benz C320 Sport 4dr;0;68
+Mercedes-Benz CL500 2dr;0;73
+Mercedes-Benz CL600 2dr;0;73
+Mercedes-Benz CLK320 coupe 2dr (convertible);0;69
+Mercedes-Benz CLK500 coupe 2dr (convertible);0;69
+Mercedes-Benz E320;0;71
+Mercedes-Benz E320 4dr;0;71
+Mercedes-Benz E500;0;71
+Mercedes-Benz E500 4dr;0;71
+Mercedes-Benz G500;1;71
+Mercedes-Benz ML500;1;72
+Mercedes-Benz S430 4dr;0;73
+Mercedes-Benz S500 4dr;0;73
+Mercedes-Benz SL500 convertible 2dr;0;72
+Mercedes-Benz SL55 AMG 2dr;0;72
+Mercedes-Benz SL600 convertible 2dr;0;72
+Mercedes-Benz SLK230 convertible 2dr;0;68
+Mercedes-Benz SLK32 AMG 2dr;0;68
+Mercury Grand Marquis GS 4dr;0;78
+Mercury Grand Marquis LS Premium 4dr;0;78
+Mercury Grand Marquis LS Ultimate 4dr;0;78
+Mercury Marauder 4dr;0;78
+Mercury Monterey Luxury;0;77
+Mercury Mountaineer;1;72
+Mercury Sable GS;0;73
+Mercury Sable GS 4dr;0;73
+Mercury Sable LS Premium 4dr;0;73
+Mini Cooper;0;67
+Mini Cooper S;0;67
+Mitsubishi Diamante LS 4dr;0;70
+Mitsubishi Eclipse GTS 2dr;0;69
+Mitsubishi Eclipse Spyder GT convertible 2dr;0;69
+Mitsubishi Endeavor XLS;1;74
+Mitsubishi Galant ES 2.4L 4dr;0;72
+Mitsubishi Galant GTS 4dr;0;72
+Mitsubishi Lancer ES 4dr;0;67
+Mitsubishi Lancer Evolution 4dr;0;70
+Mitsubishi Lancer LS 4dr;0;67
+Mitsubishi Lancer OZ Rally 4dr auto;0;67
+Mitsubishi Lancer Sportback LS;0;67
+Mitsubishi Montero XLS;1;75
+Mitsubishi Outlander LS;1;69
+Nissan 350Z coupe 2dr;0;72
+Nissan 350Z Enthusiast convertible 2dr;0;72
+Nissan Altima S 4dr;0;70
+Nissan Altima SE 4dr;0;70
+Nissan Frontier King Cab XE V6;0;*
+Nissan Maxima SE 4dr;0;72
+Nissan Maxima SL 4dr;0;72
+Nissan Murano SL;0;74
+Nissan Pathfinder Armada SE;1;79
+Nissan Pathfinder SE;1;72
+Nissan Quest S;0;78
+Nissan Quest SE;0;78
+Nissan Sentra 1.8 4dr;0;67
+Nissan Sentra 1.8 S 4dr;0;67
+Nissan Sentra SE-R 4dr;0;67
+Nissan Titan King Cab XE;0;*
+Nissan Xterra XE V6;1;70
+Oldsmobile Alero GLS 2dr;0;70
+Oldsmobile Alero GX 2dr;0;70
+Oldsmobile Silhouette GL;0;72
+Pontiac Aztekt;1;74
+Pontiac Bonneville GXP 4dr;0;74
+Pontiac Grand Am GT 2dr;0;70
+Pontiac Grand Prix GT1 4dr;0;74
+Pontiac Grand Prix GT2 4dr;0;74
+Pontiac GTO 2dr;0;73
+Pontiac Montana;0;72
+Pontiac Montana EWB;0;72
+Pontiac Sunfire 1SA 2dr;0;68
+Pontiac Sunfire 1SC 2dr;0;68
+Pontiac Vibe;0;70
+Porsche 911 Carrera 4S coupe 2dr (convert);0;72
+Porsche 911 Carrera convertible 2dr (coupe);0;70
+Porsche 911 GT2 2dr;0;72
+Porsche 911 Targa coupe 2dr;0;70
+Porsche Boxster convertible 2dr;0;70
+Porsche Boxster S convertible 2dr;0;70
+Porsche Cayenne S;1;76
+Saab 9-3 Aero 4dr;0;69
+Saab 9-3 Aero convertible 2dr;0;69
+Saab 9-3 Arc convertible 2dr;0;69
+Saab 9-3 Arc Sport 4dr;0;69
+Saab 9-5 Aero;0;71
+Saab 9-5 Aero 4dr;0;71
+Saab 9-5 Arc 4dr;0;71
+Saturn Ion1 4dr;0;67
+Saturn L300 2;0;69
+Saturn L300-2 4dr;0;69
+Saturn lon2 4dr;0;67
+Saturn lon2 quad coupe 2dr;0;68
+Saturn lon3 4dr;0;67
+Saturn lon3 quad coupe 2dr;0;68
+Saturn VUE;1;72
+Scion xA 4dr hatch;0;67
+Scion xB;0;67
+Subaru Baja;0;*
+Subaru Forester X;0;68
+Subaru Impreza 2.5 RS 4dr;0;69
+Subaru Impreza WRX 4dr;0;69
+Subaru Impreza WRX STi 4dr;0;69
+Subaru Legacy GT 4dr;0;69
+Subaru Legacy L 4dr;0;69
+Subaru Outback;0;69
+Subaru Outback H6 4dr;0;69
+Subaru Outback H-6 VDC 4dr;0;69
+Subaru Outback Limited Sedan 4dr;0;69
+Suzuki Aeno S 4dr;0;68
+Suzuki Aerio LX 4dr;0;68
+Suzuki Aerio SX;0;68
+Suzuki Forenza EX 4dr;0;68
+Suzuki Forenza S 4dr;0;68
+Suzuki Verona LX 4dr;0;72
+Suzuki Vitara LX;1;67
+Suzuki XL-7 EX;1;70
+Toyota 4Runner SR5 V6;1;74
+Toyota Avalon XL 4dr;0;72
+Toyota Avalon XLS 4dr;0;72
+Toyota Camry LE 4dr;0;71
+Toyota Camry LE V6 4dr;0;71
+Toyota Camry Solara SE 2dr;0;72
+Toyota Camry Solara SE V6 2dr;0;72
+Toyota Camry Solara SLE V6 2dr;0;72
+Toyota Camry XLE V6 4dr;0;71
+Toyota Celica GT-S 2dr;0;68
+Toyota Corolla CE 4dr;0;67
+Toyota Corolla LE 4dr;0;67
+Toyota Corolla S 4dr;0;67
+Toyota Echo 2dr auto;0;65
+Toyota Echo 2dr manual;0;65
+Toyota Echo 4dr;0;65
+Toyota Highlander V6;1;72
+Toyota Land Cruiser;1;76
+Toyota Matrix XR;0;70
+Toyota MR2 Spyder convertible 2dr;0;67
+Toyota Prius 4dr (gas/electric);0;68
+Toyota RAV4;1;68
+Toyota Sequoia SR5;1;78
+Toyota Sienna CE;0;77
+Toyota Sienna XLE Limited;0;77
+Toyota Tacoma;0;*
+Toyota Tundra Access Cab V6 SR5;0;*
+Toyota Tundra Regular Cab V6;0;*
+Volkswagen Golf GLS 4dr;0;68
+Volkswagen GTI 1.8T 2dr hatch;0;68
+Volkswagen Jetta GL;0;68
+Volkswagen Jetta GLI VR6 4dr;0;68
+Volkswagen Jetta GLS TDI 4dr;0;68
+Volkswagen New Beetle GLS 1.8T 2dr;0;68
+Volkswagen New Beetle GLS convertible 2dr;0;68
+Volkswagen Passat GLS 1.8T;0;69
+Volkswagen Passat GLS 4dr;0;69
+Volkswagen Passat GLX V6 4MOTION 4dr;0;69
+Volkswagen Passat W8;0;69
+Volkswagen Passat W8 4MOTION 4dr;0;69
+Volkswagen Phaeton 4dr;0;75
+Volkswagen Phaeton W12 4dr;0;75
+Volkswagen Touareg V6;1;76
+Volvo C70 HPT convertible 2dr;0;72
+Volvo C70 LPT convertible 2dr;0;72
+Volvo S40 4dr;0;68
+Volvo S60 2.5 4dr;0;71
+Volvo S60 R 4dr;0;71
+Volvo S60 T5 4dr;0;71
+Volvo S80 2.5T 4dr;0;72
+Volvo S80 2.9 4dr;0;72
+Volvo S80 T6 4dr;0;72
+Volvo V40;0;68
+Volvo XC70;0;73
+Volvo XC90 T6;1;75
